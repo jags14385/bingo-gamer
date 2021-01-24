@@ -42,7 +42,7 @@ function createBingoFile(fileNumber) {
     doc.end();
 }
 
-const numFiles = 1;
+const numFiles = 15;
 for(ctr=0;ctr<numFiles;ctr++) {
     createBingoFile(ctr);
 }

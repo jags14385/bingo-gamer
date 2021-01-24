@@ -7,8 +7,9 @@ The player needs to announce , when they are 1 square away from a bingo. If the 
 Additionally, everyone has a reversal (-2) single-time use 
 powerup. You can use this on an opponent & make them remove two of their already filled squares.
 
-Yes, it is a bit evil , but amazing fun !!!
+IF half of these powerUps(as in number of times = half of the audience) are used, a Bingo has to happen with in the next 15 moves, else everyone loses.
 
+Yes, it is chaotic, but amazing fun !!!
 
 - Generate bingo files by running
 - `Update the number of files L#45`
@@ -23,4 +24,3 @@ Yes, it is a bit evil , but amazing fun !!!
     - Check `audit.log` to check for the BINGO winner's claim
 
 YAY!!
-
