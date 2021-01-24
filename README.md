@@ -2,6 +2,14 @@ Bingo File Generator
 
 Rules : https://www.wikihow.com/Play-Bingo
 
+The player needs to announce , when they are 1 square away from a bingo. If the player doesn't announce, they are not eligible for a win.
+
+Additionally, everyone has a reversal (-2) single-time use 
+powerup. You can use this on an opponent & make them remove two of their already filled squares.
+
+Yes, it is a bit evil , but amazing fun !!!
+
+
 - Generate bingo files by running
 - `Update the number of files L#45`
 - and then run `node bingo-file-generator.js`
