@@ -1,0 +1,4 @@
+node_modules/*
+output*.pdf
+audit.log
+.DS_Store

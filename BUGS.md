@@ -1,0 +1,4 @@
+- Same number can be generated multiple times
+- Terrible code practices
+- No typescript and clean code
+- No tests
